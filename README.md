@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--🦸‍♂️intrested in application development
+🦸‍♂️intrested in application development
 
- ##👨🏻‍🎓 Reach me on
+👨🏻‍🎓 Reach me on
 
   <a align="center" href="https://www.linkedin.com/in/saran-vt-6452011a0/"><img height="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;
      
