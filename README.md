@@ -11,7 +11,7 @@
 
 ## LANGUAGES
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>]()
- \[<img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%2343853D.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>]()
+ <img alt="Kotlin" src="https://img.shields.io/badge/kotlin%20-%2343853D.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 
 
