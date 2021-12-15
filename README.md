@@ -6,6 +6,8 @@
  📮 Reach me on
 
   <a align="center" href="https://www.linkedin.com/in/saran-vt-6452011a0/"><img height="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;
+        <a align="center" href="https://twitter.com/Saranvt_"><img height="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+
      
 
 
