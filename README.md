@@ -3,4 +3,4 @@
 
 
 
--🦸‍♂️I’m currently learning application development
+-🦸‍♂️intrested in application development
