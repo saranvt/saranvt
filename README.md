@@ -1,9 +1,9 @@
 <div align="center">
    <h1>Hi there, I'm SARAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
-## 🦸‍♂️intrested in application development
+🦸‍♂️ intrested in application development
 
-## 👨🏻‍🎓 Reach me on
+ 📮 Reach me on
 
   <a align="center" href="https://www.linkedin.com/in/saran-vt-6452011a0/"><img height="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;
      
