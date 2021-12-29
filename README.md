@@ -8,8 +8,8 @@
  
  # 📮 Reach me on
 
-  <a align="center" href="https://www.linkedin.com/in/saran-vt-6452011a0/"><img height="48" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;
-            <a align="center" href="https://www.instagram.com/saran.vt_/"><img height="50" src="https://static.wixstatic.com/media/33091b_1a81d2bc9b674bb9856e648b2917a76f~mv2.gif"></a>        <a align="center" href="https://twitter.com/Saranvt_"><img height="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a align="center" href="https://www.linkedin.com/in/saran-vt-6452011a0/"><img height="50" width="60" src="https://www.anuncio.agency/wp-content/uploads/2018/07/gif-linkedin.gif" /></a>
+            <a align="center" href="https://www.instagram.com/saran.vt_/"><img height="50" src="https://i.pinimg.com/originals/b6/ab/7c/b6ab7c8c68a2d7e6ff2f95b388b7fd6b.gif"></a>        <a align="center" href="https://twitter.com/Saranvt_"><img height="50" src="https://i.pinimg.com/originals/81/16/88/811688d44a9906c2b1db6cde2304168b.gif"></a>
  <a align="center" href="https://dribbble.com/saran_vt"><img height="50"  src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
 
 
