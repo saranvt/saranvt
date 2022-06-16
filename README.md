@@ -1,8 +1,4 @@
 
- 🦸‍♂️ intrested in application development
-
-
- 🐝newbee 
  
  # 📮 Reach me on
 
